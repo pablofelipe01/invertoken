@@ -7,7 +7,7 @@ const Home: NextPage = () => {
     <Container maxW={"1200px"}>
       <Flex direction={"column"} h={"850px"} justifyContent={"center"} alignItems={"center"}>
         
-        <Heading my={"40px"}>InverToken</Heading>
+        <Heading my={"40px"}>RealShare Tokens</Heading>
         
         <Box
           w="700px"
